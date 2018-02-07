@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\fpereira\\VSCode\\BilhetePass\\BilhetePass\\BilhetePass.csproj",
+      "projectUniqueName": "c:\\Users\\fpereira\\VSCode\\teste\\BilhetePass\\BilhetePass\\BilhetePass.csproj",
       "projectName": "BilhetePass",
-      "projectPath": "c:\\Users\\fpereira\\VSCode\\BilhetePass\\BilhetePass\\BilhetePass.csproj",
+      "projectPath": "c:\\Users\\fpereira\\VSCode\\teste\\BilhetePass\\BilhetePass\\BilhetePass.csproj",
       "packagesPath": "C:\\Users\\fpereira\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\fpereira\\VSCode\\BilhetePass\\BilhetePass\\obj\\",
+      "outputPath": "c:\\Users\\fpereira\\VSCode\\teste\\BilhetePass\\BilhetePass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

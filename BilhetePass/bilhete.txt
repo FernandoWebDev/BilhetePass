@@ -1,1 +1,1 @@
-{"recargas":[{"valor":30.0,"data":"2018-01-21T16:40:18-02:00","valorPassagem":3.8},{"valor":10.0,"data":"2018-02-06T18:32:36.2225357-02:00","valorPassagem":4.0},{"valor":0.0,"data":"2018-02-06T18:33:59.6026767-02:00","valorPassagem":4.0}],"saldo":33.32}
+{"recargas":[],"saldo":0}

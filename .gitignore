@@ -1,0 +1,13 @@
+.vscode/
+BilhetePass/bin/
+BilhetePass/obj/
+
+BilhetePass/bin/Debug/netcoreapp2.0/BilhetePass.dll
+BilhetePass/bin/Debug/netcoreapp2.0/BilhetePass.pdb
+BilhetePass/obj/BilhetePass.csproj.nuget.cache
+BilhetePass/obj/BilhetePass.csproj.nuget.g.props
+BilhetePass/obj/project.assets.json
+BilhetePass/obj/Debug/netcoreapp2.0/BilhetePass.dll
+BilhetePass/obj/Debug/netcoreapp2.0/BilhetePass.pdb
+BilhetePass/obj/Debug/netcoreapp2.0/BilhetePass.csproj.CoreCompileInputs.cache
+BilhetePass/obj/Debug/netcoreapp2.0/BilhetePass.csproj.FileListAbsolute.txt

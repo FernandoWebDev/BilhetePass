@@ -9,7 +9,7 @@ namespace BilhetePass.Services
                 System.IO.File.WriteAllText(filePath, contextText);
                 return true;
             }
-            catch (System.Exception ex)
+            catch (System.Exception)
             {                
                 return false;
             }            

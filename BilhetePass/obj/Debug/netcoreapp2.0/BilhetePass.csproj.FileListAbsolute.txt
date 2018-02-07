@@ -8,3 +8,13 @@ c:\Users\fpereira\VSCode\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\Bilhete
 c:\Users\fpereira\VSCode\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.AssemblyInfo.cs
 c:\Users\fpereira\VSCode\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.dll
 c:\Users\fpereira\VSCode\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.pdb
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\bin\Debug\netcoreapp2.0\BilhetePass.deps.json
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\bin\Debug\netcoreapp2.0\BilhetePass.runtimeconfig.json
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\bin\Debug\netcoreapp2.0\BilhetePass.runtimeconfig.dev.json
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\bin\Debug\netcoreapp2.0\BilhetePass.dll
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\bin\Debug\netcoreapp2.0\BilhetePass.pdb
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.csproj.CoreCompileInputs.cache
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.AssemblyInfoInputs.cache
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.AssemblyInfo.cs
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.dll
+c:\Users\fpereira\VSCode\teste\BilhetePass\BilhetePass\obj\Debug\netcoreapp2.0\BilhetePass.pdb
